@@ -24,7 +24,10 @@ public class ProductController {
         md.addObject("productList",products);
         md.setViewName("product_list");
 		
-		system.out.println("my name is xiaoming.")
+		system.out.println("my name is xiaoming.");
+		system.out.println("my name is xiaogou.");
+		system.out.println("my name is xiaogou.");
+		
 		
 		
         return md;
