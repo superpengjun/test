@@ -25,6 +25,8 @@ public class ProductController {
         md.setViewName("product_list");
 		
 		system.out.println("my name is xiaoming.")
+		system.out.println("my name is xiaoming.")
+		system.out.println("my name is xiaoming.")
 		
 		
         return md;
